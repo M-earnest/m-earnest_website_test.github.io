@@ -3,5 +3,5 @@ title: test homepage
 description: none really
 
 header_pages:
-  - index.md
-  - page_name.md
+  - index.html
+  - page_name.html
